@@ -1,0 +1,12 @@
+{
+  "name": "get-social",
+  "version": "1.0.0",
+  "description": "get data from facebook and pantip.",
+  "main": "index.js",
+  "repository": "https://github.com/Tauhoo/get-social.git",
+  "author": "wachirawit wacharak",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}
