@@ -7,6 +7,11 @@
   "author": "wachirawit wacharak",
   "license": "MIT",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "puppeteer": "^1.11.0"
+  },
+  "scripts": {
+    "pantip": "node pantip.js",
+    "facebook": "node facebook.js"
   }
 }
